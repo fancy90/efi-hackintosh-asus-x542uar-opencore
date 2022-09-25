@@ -8,7 +8,7 @@ Card: intel UHD 620
 
 Ram: 8gb bus 2400
 
-SSD: 120gb samsung
+SSD: SK Hynix 256GB
 
 Opencore 0.84
 
