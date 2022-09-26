@@ -14,4 +14,4 @@ Opencore 0.84
 
 Touchpad, battery , Power ok
 
-Webcam, Audio full : layout ID: 11
+Webcam, Audio full : layout ID: 66
